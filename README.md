@@ -1,5 +1,9 @@
 ## Bem-vindo(a) ao meu perfil 😁
 
+🌐Iniciando em Web Developer Front/end
+
+
+
  <div>
    <a href="https://github.com/Art-Rubim">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Art-Rubim&theme=great-gatsby&show_icons=true)"/>
