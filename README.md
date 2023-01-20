@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/Art-Rubim">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Art-Rubim&theme=codeSTACKr&show_icons=true)"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Art-Rubim&layout=compact&langs_count=6&theme=codeSTACKr"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Art-Rubim&theme=abyss&show_icons=true)"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Art-Rubim&layout=compact&langs_count=6&theme=abyss"/>
 
 </div>
 <div style="display: inline_block"><br>
