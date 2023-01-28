@@ -17,10 +17,6 @@
 </div>
  
  <br>
- Meu primeiro projeto seguindo o #DevEmDobro
- https://art-rubim.github.io/Projeto-mario/
-
-
  ###########################################
  
 <div> 
