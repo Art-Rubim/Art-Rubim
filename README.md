@@ -19,7 +19,8 @@
  <br>
  Meu primeiro projeto seguindo o #DevEmDobro
  https://art-rubim.github.io/Projeto-mario/
- ####################################
+
+ ###########################################
  
 <div> 
   <a href = "thuzao120@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
